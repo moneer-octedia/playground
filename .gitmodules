@@ -1,0 +1,3 @@
+[submodule "packages/playground_dep2"]
+	path = packages/playground_dep2
+	url = git@github-moneer-octedia:moneer-octedia/playground_dep2.git
